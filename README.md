@@ -24,7 +24,7 @@ The app uses localStorage to save player data and demonstrates essential React c
 
 ## 🚀 How to Run This Project
 1. Clone the repository:
-2. https://github.com/mehrakmousavi/soccer-players-crud.git
+2. [Click here to view the repository](https://github.com/mehrakmousavi/soccer-players-crud.git)
 3. Navigate into the project folder:
 4. Install the dependencies:
 5. Start the development server:
