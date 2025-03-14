@@ -1,0 +1,158 @@
+{
+    "players": [
+        {
+            "id": 1,
+            "name": "Lionel Messi",
+            "age": "37",
+            "position": "Forward",
+            "nationality": "Aregentina"
+        },
+        {
+            "id": 2,
+            "name": "Cristiano Ronaldo",
+            "age": "40",
+            "position": "Forward",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 3,
+            "name": "Neymar Jr",
+            "age": "33",
+            "position": "Forward",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 4,
+            "name": "Kylian Mbappe",
+            "age": "26",
+            "position": "Forward",
+            "nationality": "France"
+        },
+        {
+            "id": 5,
+            "name": "Mohamed Salah",
+            "age": "32",
+            "position": "Forward",
+            "nationality": "Egypt"
+        },
+        {
+            "id": 6,
+            "name": "Sadio Mane",
+            "age": "32",
+            "position": "Forward",
+            "nationality": "Senegal"
+        },
+        {
+            "id": 7,
+            "name": "Robert Lewandowski",
+            "age": "36",
+            "position": "Forward",
+            "nationality": "Poland"
+        },
+        {
+            "id": 8,
+            "name": "Karim Benzema",
+            "age": "37",
+            "position": "Forward",
+            "nationality": "France"
+        },
+        {
+            "id": 9,
+            "name": "Harry Kane",
+            "age": "31",
+            "position": "Forward",
+            "nationality": "England"
+        },
+        {
+            "id": 10,
+            "name": "Kevin De Bruyne",
+            "age": "33",
+            "position": "Midfielder",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 11,
+            "name": "Luka Modric",
+            "age": "39",
+            "position": "Midfielder",
+            "nationality": "Croatia"
+        },
+        {
+            "id": 12,
+            "name": "N'Golo Kante",
+            "age": "33",
+            "position": "Midfielder",
+            "nationality": "France"
+        },
+        {
+            "id": 13,
+            "name": "Bruno Fernandes",
+            "age": "30",
+            "position": "Midfielder",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 14,
+            "name": "Joshua Kimmich",
+            "age": "30",
+            "position": "Midfielder",
+            "nationality": "Germany"
+        },
+        {
+            "id": 15,
+            "name": "Frenkie de Jong",
+            "age": "27",
+            "position": "Midfielder",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 16,
+            "name": "Sergio Ramos",
+            "age": "35",
+            "position": "Defender",
+            "nationality": "Spain"
+        },
+        {
+            "id": 17,
+            "name": "Virgil van Dijk",
+            "age": "30",
+            "position": "Defender",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 18,
+            "name": "Trent Alexander-Arnold",
+            "age": "23",
+            "position": "Defender",
+            "nationality": "England"
+        },
+        {
+            "id": 19,
+            "name": "Andrew Robertson",
+            "age": "27",
+            "position": "Defender",
+            "nationality": "Scotland"
+        },
+        {
+            "id": 20,
+            "name": "Emiliano Martinez",
+            "age": "32",
+            "position": "Goalkeeper",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 21,
+            "name": "Alisson Becker",
+            "age": "32",
+            "position": "Goalkeeper",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 22,
+            "name": "Manuel Neuer",
+            "age": "38",
+            "position": "Goalkeeper",
+            "nationality": "Germany"
+        }
+    ]
+}
